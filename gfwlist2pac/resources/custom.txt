@@ -6,3 +6,6 @@ translate-tab.com
 layervault.com
 list-manage.com
 goagent.co
+udemy.com
+github.com
+mozilla.org

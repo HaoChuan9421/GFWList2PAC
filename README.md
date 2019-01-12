@@ -20,7 +20,7 @@ Generate O(1) PAC file from gfwlist.
 
 ### Example
 
-    main.py -i gfwlist.txt -f proxy.pac -p "PROXY 127.0.0.1:8087"
+    python main.py -f proxy.pac -p "SOCKS5 127.0.0.1:1086"
 
     you can download gfwlist.txt yourself
 

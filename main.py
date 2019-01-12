@@ -12,7 +12,7 @@ import copy
 __all__ = ['main']
 
 
-gfwlist_url = 'https://autoproxy-gfwlist.googlecode.com/svn/trunk/gfwlist.txt' # ban with gfw, you need proxy to access
+gfwlist_url = 'https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt'
 
 
 def parse_args():
